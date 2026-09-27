@@ -1,0 +1,1979 @@
+{
+  "nodes": [
+    {
+      "name": "Haus ohne Hüter",
+      "label": "Werk",
+      "properties": {
+        "name": "Haus ohne Hüter",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "autor": "Heinrich Böll",
+        "erscheinungsjahr": 1954
+      }
+    },
+    {
+      "name": "Familie Bach",
+      "label": "Familie",
+      "properties": {
+        "name": "Familie Bach",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Familie Brielach",
+      "label": "Familie",
+      "properties": {
+        "name": "Familie Brielach",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Nella Bach",
+      "label": "Figur",
+      "properties": {
+        "name": "Nella Bach",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "Mutter von Martin; Witwe von Raimund"
+      }
+    },
+    {
+      "name": "Raimund Bach",
+      "label": "Figur",
+      "properties": {
+        "name": "Raimund Bach",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "Dichter / Schriftsteller",
+        "status": "im Zweiten Weltkrieg gefallen"
+      }
+    },
+    {
+      "name": "Martin Bach",
+      "label": "Figur",
+      "properties": {
+        "name": "Martin Bach",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "Kind; Hauptfigur / Perspektivfigur"
+      }
+    },
+    {
+      "name": "Martins Großmutter",
+      "label": "Figur",
+      "properties": {
+        "name": "Martins Großmutter",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "Mutter von Nella; Großmutter von Martin",
+        "bemerkung": "wohlhabende Fabrikantenfamilie / Marmeladenfabrik"
+      }
+    },
+    {
+      "name": "Albert Muchow",
+      "label": "Figur",
+      "properties": {
+        "name": "Albert Muchow",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "enge Bezugsperson der Familie Bach",
+        "beruf": "Witzzeichner / Zeichner",
+        "bemerkung": "arbeitete früher mit Raimund als Zeichner in der Marmeladenfabrik"
+      }
+    },
+    {
+      "name": "Will",
+      "label": "Figur",
+      "properties": {
+        "name": "Will",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "Onkel von Martin; ältere stabile Bezugsperson"
+      }
+    },
+    {
+      "name": "Glumbich Cholokusteban",
+      "label": "Figur",
+      "properties": {
+        "name": "Glumbich Cholokusteban",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "alias": "Glum",
+        "rolle": "männlicher Hausgenosse / Freund des Bach-Umfelds",
+        "bemerkung": "angelt; ehemaliger Lagerinsasse"
+      }
+    },
+    {
+      "name": "Bolda",
+      "label": "Figur",
+      "properties": {
+        "name": "Bolda",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "alte Freundin von Martins Großmutter"
+      }
+    },
+    {
+      "name": "Pater Willibrord",
+      "label": "Figur",
+      "properties": {
+        "name": "Pater Willibrord",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "beruf": "katholischer Geistlicher"
+      }
+    },
+    {
+      "name": "Schurbigel",
+      "label": "Figur",
+      "properties": {
+        "name": "Schurbigel",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "Redner / Kulturintellektueller / Literaturbetrieb",
+        "bemerkung": "veröffentlichte 1935 ein Gedicht Raimund Bachs; Dissertation 1934: 'Unser Führer in der modernen Lyrik'"
+      }
+    },
+    {
+      "name": "Gäseler",
+      "label": "Figur",
+      "properties": {
+        "name": "Gäseler",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "ehemaliger Leutnant; später im Literaturbetrieb",
+        "bemerkung": "Raimunds militärischer Vorgesetzter"
+      }
+    },
+    {
+      "name": "Wilma Brielach",
+      "label": "Figur",
+      "properties": {
+        "name": "Wilma Brielach",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "Mutter von Heinrich und Wilma",
+        "bemerkung": "Vorname laut Nutzervorgabe im Roman ausdrücklich als Wilma belegt"
+      }
+    },
+    {
+      "name": "Heinrich Brielach",
+      "label": "Figur",
+      "properties": {
+        "name": "Heinrich Brielach",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "Kind; Hauptfigur / Perspektivfigur"
+      }
+    },
+    {
+      "name": "Wilma Brielach (Tochter)",
+      "label": "Figur",
+      "properties": {
+        "name": "Wilma Brielach (Tochter)",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "kleine Halbschwester von Heinrich"
+      }
+    },
+    {
+      "name": "Vater Brielach",
+      "label": "Figur",
+      "properties": {
+        "name": "Vater Brielach",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "beruf": "Autoschlosser",
+        "status": "im Krieg gefallen / verschollen; Todesumstände unsicher"
+      }
+    },
+    {
+      "name": "Leo",
+      "label": "Figur",
+      "properties": {
+        "name": "Leo",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "beruf": "Straßenbahnschaffner",
+        "rolle": "Partner von Wilma Brielach; Vater der kleinen Wilma"
+      }
+    },
+    {
+      "name": "Der Bäcker",
+      "label": "Figur",
+      "properties": {
+        "name": "Der Bäcker",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "beruf": "Bäcker",
+        "rolle": "Arbeitgeber und Verehrer von Wilma Brielach"
+      }
+    },
+    {
+      "name": "Frau Borussiak",
+      "label": "Figur",
+      "properties": {
+        "name": "Frau Borussiak",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "Bekannte / Betreuungsperson im Umfeld der Brielachs"
+      }
+    },
+    {
+      "name": "Erich",
+      "label": "Figur",
+      "properties": {
+        "name": "Erich",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "frühere Partner / 'Onkel' im Umfeld von Heinrichs Mutter"
+      }
+    },
+    {
+      "name": "Gert",
+      "label": "Figur",
+      "properties": {
+        "name": "Gert",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "frühere Partner / 'Onkel' im Umfeld von Heinrichs Mutter"
+      }
+    },
+    {
+      "name": "Karl",
+      "label": "Figur",
+      "properties": {
+        "name": "Karl",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "rolle": "frühere Partner / 'Onkel' im Umfeld von Heinrichs Mutter"
+      }
+    },
+    {
+      "name": "Bambergers Nudelfabrik",
+      "label": "Ort",
+      "properties": {
+        "name": "Bambergers Nudelfabrik",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Marmeladenfabrik",
+      "label": "Ort",
+      "properties": {
+        "name": "Marmeladenfabrik",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Bäckerei",
+      "label": "Ort",
+      "properties": {
+        "name": "Bäckerei",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Bietenhahn",
+      "label": "Ort",
+      "properties": {
+        "name": "Bietenhahn",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "typ": "fiktiver Ort",
+        "bemerkung": "Schutz- und Gegenraum für die Kinder (Interpretation)"
+      }
+    },
+    {
+      "name": "Odessa",
+      "label": "Ort",
+      "properties": {
+        "name": "Odessa",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "bemerkung": "Militärgefängnis-Kontext während des Krieges"
+      }
+    },
+    {
+      "name": "Russland / Ostfront",
+      "label": "Ort",
+      "properties": {
+        "name": "Russland / Ostfront",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "nicht näher bezeichnete Stadt am Rhein",
+      "label": "Ort",
+      "properties": {
+        "name": "nicht näher bezeichnete Stadt am Rhein",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Raimunds letzter Patrouillengang",
+      "label": "Ereignis",
+      "properties": {
+        "name": "Raimunds letzter Patrouillengang",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Tod Raimunds",
+      "label": "Ereignis",
+      "properties": {
+        "name": "Tod Raimunds",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Albert schlägt Gäseler",
+      "label": "Ereignis",
+      "properties": {
+        "name": "Albert schlägt Gäseler",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Alberts Haft in Odessa",
+      "label": "Ereignis",
+      "properties": {
+        "name": "Alberts Haft in Odessa",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Aufenthalt der Kinder in Bietenhahn",
+      "label": "Ereignis",
+      "properties": {
+        "name": "Aufenthalt der Kinder in Bietenhahn",
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Vaterlosigkeit",
+      "label": "Thema",
+      "properties": {
+        "name": "Vaterlosigkeit",
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Trauer",
+      "label": "Thema",
+      "properties": {
+        "name": "Trauer",
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Nachkriegsarmut",
+      "label": "Thema",
+      "properties": {
+        "name": "Nachkriegsarmut",
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Verdrängung",
+      "label": "Thema",
+      "properties": {
+        "name": "Verdrängung",
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "soziale Ungleichheit",
+      "label": "Thema",
+      "properties": {
+        "name": "soziale Ungleichheit",
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Ersatzväter",
+      "label": "Thema",
+      "properties": {
+        "name": "Ersatzväter",
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Verantwortung",
+      "label": "Thema",
+      "properties": {
+        "name": "Verantwortung",
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Vergangenheitsaufarbeitung",
+      "label": "Thema",
+      "properties": {
+        "name": "Vergangenheitsaufarbeitung",
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "name": "Auflösung traditioneller Familienstrukturen",
+      "label": "Thema",
+      "properties": {
+        "name": "Auflösung traditioneller Familienstrukturen",
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "von": "Nella Bach",
+      "typ": "IST_MUTTER_VON",
+      "zu": "Martin Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Raimund Bach",
+      "typ": "IST_VATER_VON",
+      "zu": "Martin Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Nella Bach",
+      "typ": "WAR_VERHEIRATET_MIT",
+      "zu": "Raimund Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Martins Großmutter",
+      "typ": "IST_MUTTER_VON",
+      "zu": "Nella Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Martins Großmutter",
+      "typ": "IST_GROSSMUTTER_VON",
+      "zu": "Martin Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Will",
+      "typ": "IST_ONKEL_VON",
+      "zu": "Martin Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Bolda",
+      "typ": "IST_FREUNDIN_VON",
+      "zu": "Martins Großmutter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Glumbich Cholokusteban",
+      "typ": "GEHOERT_ZUM_UMFELD_VON",
+      "zu": "Familie Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "GEHOERT_ZUM_UMFELD_VON",
+      "zu": "Familie Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Pater Willibrord",
+      "typ": "GEHOERT_ZUM_UMFELD_VON",
+      "zu": "Familie Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Schurbigel",
+      "typ": "GEHOERT_ZUM_UMFELD_VON",
+      "zu": "Familie Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Gäseler",
+      "typ": "GEHOERT_ZUM_UMFELD_VON",
+      "zu": "Familie Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Martin Bach",
+      "typ": "IST_FREUND_VON",
+      "zu": "Heinrich Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "symmetrisch": true
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "IST_FREUND_VON",
+      "zu": "Raimund Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "symmetrisch": true
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "DIENTE_MIT",
+      "zu": "Raimund Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "IST_VATERFIGUR_FUER",
+      "zu": "Martin Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Interpretation"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "IST_VERTRAUENSPERSON_FUER",
+      "zu": "Heinrich Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "UEBERNIMMT_FUERSORGE_FUER",
+      "zu": "Wilma Brielach (Tochter)",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "LIEBT",
+      "zu": "Nella Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "MOECHTE_HEIRATEN",
+      "zu": "Nella Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Nella Bach",
+      "typ": "LEHNT_HEIRAT_MIT_AB",
+      "zu": "Albert Muchow",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Gäseler",
+      "typ": "WAR_VORGESETZTER_VON",
+      "zu": "Raimund Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Gäseler",
+      "typ": "ORDNET_AN",
+      "zu": "Raimunds letzter Patrouillengang",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "motiv": "eitler Eigensinn / verletzte Autorität",
+        "motiv_sicherheit": "interpretativ"
+      }
+    },
+    {
+      "von": "Raimund Bach",
+      "typ": "NIMMT_TEIL_AN",
+      "zu": "Raimunds letzter Patrouillengang",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Raimunds letzter Patrouillengang",
+      "typ": "FUEHRT_ZU",
+      "zu": "Tod Raimunds",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Tod Raimunds",
+      "typ": "BETRIFFT",
+      "zu": "Raimund Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "SCHLAEGT_INS_GESICHT",
+      "zu": "Gäseler",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "WIRD_INHAFTIERT_IN",
+      "zu": "Odessa",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "dauer": "sechs Monate",
+        "grund": "Ohrfeige / Schlag gegen Gäseler"
+      }
+    },
+    {
+      "von": "Gäseler",
+      "typ": "VERSUCHT_ZU_EROBERN",
+      "zu": "Nella Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Nella Bach",
+      "typ": "HASST",
+      "zu": "Gäseler",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Nella Bach",
+      "typ": "HEGT_RACHEFANTASIEN_GEGEN",
+      "zu": "Gäseler",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Gäseler",
+      "typ": "INTERESSIERT_SICH_FUER_WERK_VON",
+      "zu": "Raimund Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Schurbigel",
+      "typ": "VEROEFFENTLICHTE_GEDICHT_VON",
+      "zu": "Raimund Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "jahr": 1935
+      }
+    },
+    {
+      "von": "Schurbigel",
+      "typ": "BEZEICHNET_SICH_ALS_ENTDECKER_VON",
+      "zu": "Raimund Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Schurbigel",
+      "typ": "BESUCHT_REGELMAESSIG",
+      "zu": "Nella Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Nella Bach",
+      "typ": "HASST",
+      "zu": "Schurbigel",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Pater Willibrord",
+      "typ": "KENNT",
+      "zu": "Nella Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Pater Willibrord",
+      "typ": "KENNT",
+      "zu": "Schurbigel",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Pater Willibrord",
+      "typ": "STELLT_VOR",
+      "zu": "Gäseler",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Gäseler",
+      "typ": "WIRD_VORGESTELLT_BEI",
+      "zu": "Nella Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Wilma Brielach",
+      "typ": "IST_MUTTER_VON",
+      "zu": "Heinrich Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Vater Brielach",
+      "typ": "IST_VATER_VON",
+      "zu": "Heinrich Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Wilma Brielach",
+      "typ": "IST_MUTTER_VON",
+      "zu": "Wilma Brielach (Tochter)",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Leo",
+      "typ": "IST_VATER_VON",
+      "zu": "Wilma Brielach (Tochter)",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Heinrich Brielach",
+      "typ": "IST_HALBBRUDER_VON",
+      "zu": "Wilma Brielach (Tochter)",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Wilma Brielach",
+      "typ": "LEBT_MIT",
+      "zu": "Leo",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Leo",
+      "typ": "BESCHAEMT",
+      "zu": "Wilma Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Interpretation"
+      }
+    },
+    {
+      "von": "Erich",
+      "typ": "HATTE_BEZIEHUNG_MIT",
+      "zu": "Wilma Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Gert",
+      "typ": "HATTE_BEZIEHUNG_MIT",
+      "zu": "Wilma Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Karl",
+      "typ": "HATTE_BEZIEHUNG_MIT",
+      "zu": "Wilma Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Heinrich Brielach",
+      "typ": "SIEHT_ALS_VEREINIGUNGSONKEL",
+      "zu": "Erich",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Figurenwahrnehmung",
+        "perspektive": "Heinrich Brielach"
+      }
+    },
+    {
+      "von": "Heinrich Brielach",
+      "typ": "SIEHT_ALS_VEREINIGUNGSONKEL",
+      "zu": "Gert",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Figurenwahrnehmung",
+        "perspektive": "Heinrich Brielach"
+      }
+    },
+    {
+      "von": "Heinrich Brielach",
+      "typ": "SIEHT_ALS_VEREINIGUNGSONKEL",
+      "zu": "Karl",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Figurenwahrnehmung",
+        "perspektive": "Heinrich Brielach"
+      }
+    },
+    {
+      "von": "Heinrich Brielach",
+      "typ": "SIEHT_ALS_VEREINIGUNGSONKEL",
+      "zu": "Leo",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Figurenwahrnehmung",
+        "perspektive": "Heinrich Brielach"
+      }
+    },
+    {
+      "von": "Heinrich Brielach",
+      "typ": "SIEHT_ALS_RICHTIGEN_ONKEL",
+      "zu": "Will",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Figurenwahrnehmung",
+        "perspektive": "Heinrich Brielach"
+      }
+    },
+    {
+      "von": "Wilma Brielach",
+      "typ": "ARBEITETE_IN",
+      "zu": "Bambergers Nudelfabrik",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Wilma Brielach",
+      "typ": "ARBEITET_BEI",
+      "zu": "Der Bäcker",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Der Bäcker",
+      "typ": "ARBEITET_IN",
+      "zu": "Bäckerei",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Der Bäcker",
+      "typ": "BEGEHRT",
+      "zu": "Wilma Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Der Bäcker",
+      "typ": "WIRBT_UM",
+      "zu": "Wilma Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Wilma Brielach",
+      "typ": "ERWAEGT_BEZIEHUNG_MIT",
+      "zu": "Der Bäcker",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "gedanklich erwogen",
+        "perspektive": "Wilma Brielach"
+      }
+    },
+    {
+      "von": "Wilma Brielach",
+      "typ": "ERWAEGT_TRENNUNG_VON",
+      "zu": "Leo",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "gedanklich erwogen",
+        "perspektive": "Wilma Brielach"
+      }
+    },
+    {
+      "von": "Raimund Bach",
+      "typ": "ARBEITETE_IN",
+      "zu": "Marmeladenfabrik",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "ARBEITETE_IN",
+      "zu": "Marmeladenfabrik",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "ARBEITETE_MIT",
+      "zu": "Raimund Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "INITIIERT_AUFENTHALT",
+      "zu": "Aufenthalt der Kinder in Bietenhahn",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Martin Bach",
+      "typ": "NIMMT_TEIL_AN",
+      "zu": "Aufenthalt der Kinder in Bietenhahn",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Heinrich Brielach",
+      "typ": "NIMMT_TEIL_AN",
+      "zu": "Aufenthalt der Kinder in Bietenhahn",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Wilma Brielach (Tochter)",
+      "typ": "NIMMT_TEIL_AN",
+      "zu": "Aufenthalt der Kinder in Bietenhahn",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Aufenthalt der Kinder in Bietenhahn",
+      "typ": "FINDET_STATT_IN",
+      "zu": "Bietenhahn",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Martin Bach",
+      "typ": "BETROFFEN_VON",
+      "zu": "Vaterlosigkeit",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Interpretation"
+      }
+    },
+    {
+      "von": "Heinrich Brielach",
+      "typ": "BETROFFEN_VON",
+      "zu": "Vaterlosigkeit",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Interpretation"
+      }
+    },
+    {
+      "von": "Wilma Brielach",
+      "typ": "BETROFFEN_VON",
+      "zu": "Nachkriegsarmut",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Interpretation"
+      }
+    },
+    {
+      "von": "Heinrich Brielach",
+      "typ": "BETROFFEN_VON",
+      "zu": "Nachkriegsarmut",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Interpretation"
+      }
+    },
+    {
+      "von": "Nella Bach",
+      "typ": "BETROFFEN_VON",
+      "zu": "Trauer",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Interpretation"
+      }
+    },
+    {
+      "von": "Gäseler",
+      "typ": "STEHT_FUER",
+      "zu": "Verdrängung",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Interpretation"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "STEHT_FUER",
+      "zu": "Verantwortung",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Interpretation"
+      }
+    },
+    {
+      "von": "Nella Bach",
+      "typ": "GEHOERT_ZUR_FAMILIE",
+      "zu": "Familie Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Raimund Bach",
+      "typ": "GEHOERT_ZUR_FAMILIE",
+      "zu": "Familie Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Martin Bach",
+      "typ": "GEHOERT_ZUR_FAMILIE",
+      "zu": "Familie Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Martins Großmutter",
+      "typ": "GEHOERT_ZUR_FAMILIE",
+      "zu": "Familie Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Will",
+      "typ": "GEHOERT_ZUR_FAMILIE",
+      "zu": "Familie Bach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Wilma Brielach",
+      "typ": "GEHOERT_ZUR_FAMILIE",
+      "zu": "Familie Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Heinrich Brielach",
+      "typ": "GEHOERT_ZUR_FAMILIE",
+      "zu": "Familie Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Wilma Brielach (Tochter)",
+      "typ": "GEHOERT_ZUR_FAMILIE",
+      "zu": "Familie Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Vater Brielach",
+      "typ": "GEHOERT_ZUR_FAMILIE",
+      "zu": "Familie Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Leo",
+      "typ": "GEHOERT_ZUM_UMFELD_VON",
+      "zu": "Familie Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Der Bäcker",
+      "typ": "GEHOERT_ZUM_UMFELD_VON",
+      "zu": "Familie Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Erich",
+      "typ": "GEHOERT_ZUM_UMFELD_VON",
+      "zu": "Familie Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Gert",
+      "typ": "GEHOERT_ZUM_UMFELD_VON",
+      "zu": "Familie Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Karl",
+      "typ": "GEHOERT_ZUM_UMFELD_VON",
+      "zu": "Familie Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Frau Borussiak",
+      "typ": "GEHOERT_ZUM_UMFELD_VON",
+      "zu": "Familie Brielach",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "HANDELT_IN",
+      "zu": "Albert schlägt Gäseler",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert schlägt Gäseler",
+      "typ": "BETRIFFT",
+      "zu": "Gäseler",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Albert schlägt Gäseler",
+      "typ": "FUEHRT_ZU",
+      "zu": "Alberts Haft in Odessa",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Alberts Haft in Odessa",
+      "typ": "BETRIFFT",
+      "zu": "Albert Muchow",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "dauer": "sechs Monate"
+      }
+    },
+    {
+      "von": "Alberts Haft in Odessa",
+      "typ": "FINDET_STATT_IN",
+      "zu": "Odessa",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft"
+      }
+    },
+    {
+      "von": "Familie Bach",
+      "typ": "IST_FAMILIE_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Familie Brielach",
+      "typ": "IST_FAMILIE_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Nella Bach",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Raimund Bach",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Martin Bach",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Martins Großmutter",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Albert Muchow",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Will",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Glumbich Cholokusteban",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Bolda",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Pater Willibrord",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Schurbigel",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Gäseler",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Wilma Brielach",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Heinrich Brielach",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Wilma Brielach (Tochter)",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Vater Brielach",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Leo",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Der Bäcker",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Frau Borussiak",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Erich",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Gert",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Karl",
+      "typ": "IST_FIGUR_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Bambergers Nudelfabrik",
+      "typ": "IST_ORT_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Marmeladenfabrik",
+      "typ": "IST_ORT_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Bäckerei",
+      "typ": "IST_ORT_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Bietenhahn",
+      "typ": "IST_ORT_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Odessa",
+      "typ": "IST_ORT_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Russland / Ostfront",
+      "typ": "IST_ORT_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "nicht näher bezeichnete Stadt am Rhein",
+      "typ": "IST_ORT_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Raimunds letzter Patrouillengang",
+      "typ": "IST_EREIGNIS_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Tod Raimunds",
+      "typ": "IST_EREIGNIS_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Albert schlägt Gäseler",
+      "typ": "IST_EREIGNIS_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Alberts Haft in Odessa",
+      "typ": "IST_EREIGNIS_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Aufenthalt der Kinder in Bietenhahn",
+      "typ": "IST_EREIGNIS_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "kanonisch",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Vaterlosigkeit",
+      "typ": "IST_THEMA_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Trauer",
+      "typ": "IST_THEMA_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Nachkriegsarmut",
+      "typ": "IST_THEMA_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Verdrängung",
+      "typ": "IST_THEMA_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "soziale Ungleichheit",
+      "typ": "IST_THEMA_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Ersatzväter",
+      "typ": "IST_THEMA_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Verantwortung",
+      "typ": "IST_THEMA_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Vergangenheitsaufarbeitung",
+      "typ": "IST_THEMA_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    },
+    {
+      "von": "Auflösung traditioneller Familienstrukturen",
+      "typ": "IST_THEMA_IN",
+      "zu": "Haus ohne Hüter",
+      "properties": {
+        "quelle": "Roman",
+        "sicherheit": "interpretativ",
+        "belegstatus": "Aus Nutzervorgabe übernommen; nicht am Primärtext geprüft",
+        "aussageart": "Werkzuordnung"
+      }
+    }
+  ]
+}
