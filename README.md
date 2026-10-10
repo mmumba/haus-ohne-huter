@@ -92,3 +92,7 @@ Dann `http://127.0.0.1:8000/haus-ohne-hueter-interaktiv.html` öffnen. Mit Strg+
 ### Ein anderes Netzwerk darstellen
 
 Die JSON-Struktur besteht aus `nodes` mit `name`, `label`, `properties` sowie `relationships` mit `von`, `typ`, `zu`, `properties`. Namen müssen eindeutig sein; jede Beziehung muss auf vorhandene Knoten verweisen. Für andere Projekte müssen außerdem die derzeit romanspezifischen Texte, Ansichtsfilter, Farben und Startpositionen in der Vorlage angepasst werden.
+
+## Feedback
+
+Über **Feedback geben** im Viewer gelangst du zu einem [kurzen deutschen Google-Formular](https://docs.google.com/forms/d/e/1FAIpQLSfjob3Mv2FTE6_5Vf8izzlP9AREabSCRBCbGm1BkiiqZKbEsw/viewform?hl=de). Kein Google-Konto erforderlich; E-Mail-Adressen werden nicht gesammelt. Alle Fragen sind freiwillig. Bitte keine persönlichen Angaben eintragen. Antworten sind nicht öffentlich sichtbar. Das Formular wird in einem neuen Tab geöffnet; das übrige Programm funktioniert weiterhin offline.
