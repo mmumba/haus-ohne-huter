@@ -4,6 +4,12 @@ Figuren und Beziehungen in Heinrich Bölls Roman **Haus ohne Hüter** (1954) erk
 
 Der Viewer läuft vollständig **lokal und offline im Browser**. Kein Server, kein Neo4j, kein Benutzerkonto und keine Installation von JavaScript-Paketen erforderlich.
 
+## Online öffnen
+
+Der Figurenatlas wird über GitHub Pages veröffentlicht: [Figurenatlas öffnen](https://mmumba.github.io/haus-ohne-huter/).
+
+Die Offline-Datei bleibt weiterhin verfügbar. Änderungen an der persönlichen Anordnung werden nicht für andere Besucher gespeichert.
+
 ## Lokal starten
 
 1. Dieses Repository mit GitHub Desktop oder Git klonen. Alternativ auf GitHub **Code → Download ZIP** wählen und die ZIP-Datei entpacken.
@@ -37,7 +43,7 @@ Anschließend `haus-ohne-hueter-interaktiv.html` im Dateimanager öffnen. Eine V
 
 Die Datei **haus-ohne-hueter-teilen.zip** enthält den mitgelieferten Viewer zum Weitergeben. Empfänger entpacken sie und öffnen die HTML-Datei. Einige E-Mail-Dienste blockieren HTML-Anhänge; dann die ZIP-Datei über eine Dateiablage weitergeben.
 
-**SVG exportieren** erzeugt ein skalierbares, statisches Bild der gesamten ausgewählten Ansicht mit Kantentexten. Die interaktive HTML-Version erlaubt zusätzlich das Verschieben von Knoten. Es wird kein öffentlicher Server betrieben.
+**SVG exportieren** erzeugt ein skalierbares, statisches Bild der gesamten ausgewählten Ansicht mit Kantentexten. Die interaktive HTML-Version erlaubt zusätzlich das Verschieben von Knoten. Die Online-Version wird als statische Website auf GitHub Pages bereitgestellt.
 
 ## Daten und Quellenstatus
 
